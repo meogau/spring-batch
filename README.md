@@ -1,2 +1,2 @@
 # spring-batch
-have fun with spriung batch
+have fun with spring batch
